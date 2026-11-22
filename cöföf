@@ -1,0 +1,1 @@
+unzip v2.zip && rm v2.zip && git add . && git commit -m "Zip açıldı" && git push
